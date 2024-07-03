@@ -877,7 +877,7 @@ a.icon img.icons {
 @media (max-width: 767px) {
     
 .Team-Members .container .box07 .cont .icon {
-    margin-left: 8px;
+    display: none;
 }
     
 }
